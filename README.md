@@ -1,5 +1,7 @@
 # DIY-Flipper-DevBoard
 A tutorial teaches you how to DIY make your own ESP32 wifi dev board for flipper zero
+The whole process will take about 1 hour or so -> For beginners easy to make
+
 The materials you will need：
 1. A ESP32S2 or ESPWROOM32 develop board
 2. A PCB Circuit Board
