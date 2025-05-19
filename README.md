@@ -80,6 +80,22 @@ Follow these steps to connect the ESP32 pins to your Flipper Zero:
 ### 3. Final Setup with Flipper Zero
 <img src="images/board_flipper.jpg" alt="Final Setup with Flipper Zero" width="400">
 
+## Screen Protector for Flipper Zero
+
+Want to protect your Flipper Zero's screen from scratches and damage? You can create a custom screen protector at home with minimal effort. Here's how:
+
+### Screen Dimensions
+The Flipper Zero screen dimensions are **1.4 inches (diagonal)** with an approximate width of **74 mm**, height of **44 mm**, and corner radius of **R3 (3 mm)**. Use these measurements to cut your screen protector material accurately.
+
+| Dimension        | Measurement |
+|------------------|-------------|
+| Diagonal         | 1.4 inches  |
+| Width            | 74 mm       |
+| Height           | 44 mm       |
+| Corner Radius    | R3 (3 mm)   |
+
+<img src="images/flipper_screen_dimensions.jpg" alt="Screen Dimensions" width="400">
+
 ## References
 
 - [ESP32 Official Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/index.html)  
