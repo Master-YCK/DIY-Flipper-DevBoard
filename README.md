@@ -27,7 +27,7 @@ Before proceeding, please read and agree to the following declaration:
 
 | Flipper Zero Pin | ESP32 WiFi Board Pin |
 |------------------|----------------------|
-| 3.3V             | 3.3V                 |
+| 3V3              | 3V3                  |
 | GND              | GND                  |
 | RX               | TX                   |
 | TX               | RX                   |
